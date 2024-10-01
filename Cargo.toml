@@ -1,0 +1,9 @@
+[package]
+name = "ubuntu-setup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dialoguer = "0.11.0"
+indicatif = "0.17.8"
+subprocess = "0.2.9"
